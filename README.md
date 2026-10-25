@@ -84,7 +84,7 @@ The diagram illustrates the database tables and their relationships.
 ```text
 ai-research-atlas/
 ├── README.md
-├── design.md
+├── DESIGN.md
 ├── schema.sql
 ├── queries.sql
 ├── er_diagram.png
